@@ -1,0 +1,278 @@
+.doctor-profile-photo {
+  position: absolute;
+  top: 98px;
+  left: 18px;
+  border-radius: 42px;
+  width: 357px;
+  height: 357px;
+  object-fit: cover;
+}
+.detail-section {
+  position: absolute;
+  top: 379px;
+  left: 1px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 424px;
+}
+.iphone-x-top-navbar-light {
+  position: absolute;
+  height: 5.21%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 94.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.book-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: #3e69fe;
+  width: 298px;
+  height: 50px;
+}
+.book-appointment {
+  position: absolute;
+  width: 49.33%;
+  top: 26%;
+  left: 25.5%;
+  font-weight: 600;
+  display: inline-block;
+}
+.book-button {
+  position: absolute;
+  top: 696px;
+  left: 48px;
+  width: 298px;
+  height: 50px;
+  font-size: 15px;
+  color: var(--color-white);
+}
+.doctor {
+  position: absolute;
+  width: 15.64%;
+  top: 6.52%;
+  left: 42.56%;
+  font-weight: 600;
+  display: inline-block;
+}
+.back-icon {
+  position: absolute;
+  height: 1.9%;
+  width: 2.05%;
+  top: 7.46%;
+  right: 93.59%;
+  bottom: 90.64%;
+  left: 4.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dr-ali-uzair {
+  position: absolute;
+  top: 391px;
+  left: 21px;
+  font-weight: 600;
+}
+.star-fill-icon {
+  position: absolute;
+  height: 100%;
+  width: 15.32%;
+  top: 0;
+  right: 84.68%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviews {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  font-weight: 500;
+}
+.cardiologist-and-surgeon,
+.rating-49 {
+  position: absolute;
+  font-size: var(--font-size-xs);
+}
+.rating-49 {
+  height: 2.13%;
+  width: 31.79%;
+  top: 46.68%;
+  right: 3.08%;
+  bottom: 51.18%;
+  left: 65.13%;
+}
+.cardiologist-and-surgeon {
+  top: 415px;
+  left: 21px;
+  color: var(--color-gray-100);
+}
+.div {
+  position: absolute;
+  top: 68px;
+  left: 10px;
+  font-weight: 600;
+}
+.patients-icon {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 48.82px;
+  height: 48.82px;
+}
+.patients {
+  top: 476px;
+  left: 36px;
+  width: 51.82px;
+  height: 115px;
+}
+.div1,
+.patients,
+.rating1 {
+  position: absolute;
+}
+.div1 {
+  top: 68px;
+  left: 11.02px;
+  font-weight: 600;
+}
+.rating1 {
+  top: 97px;
+  left: 5.02px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.rating-icon {
+  position: absolute;
+  height: 42.45%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 57.55%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rating {
+  position: absolute;
+  top: 476px;
+  left: 213.98px;
+  width: 48.82px;
+  height: 115px;
+}
+.reveiws {
+  position: absolute;
+  top: 97px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.reviews-icon {
+  position: absolute;
+  top: 0;
+  left: 1.18px;
+  width: 48.82px;
+  height: 48.82px;
+}
+.reviews1 {
+  top: 476px;
+  left: 306px;
+  width: 50px;
+  height: 115px;
+}
+.div3,
+.reviews1,
+.years {
+  position: absolute;
+}
+.div3 {
+  top: 68px;
+  left: 13.8px;
+  font-weight: 600;
+}
+.years {
+  top: 97px;
+  left: 3.8px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.experience,
+.experience-icon,
+.nav-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.82px;
+  height: 48.82px;
+}
+.experience,
+.nav-icon {
+  top: 476px;
+  left: 132.2px;
+  height: 115px;
+}
+.nav-icon {
+  top: 761px;
+  left: 0;
+  width: 391px;
+  height: 81px;
+}
+.about-me {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.read-more {
+  color: #4c4ddc;
+}
+.dr-ali-uzair-container {
+  position: relative;
+  font-size: var(--font-size-xs);
+  line-height: 150%;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 327px;
+  color: var(--color-gray-100);
+}
+.title-description {
+  position: absolute;
+  top: 596px;
+  left: 34px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+  color: var(--secondary);
+  font-family: var(--subline);
+}
+.favorite-button-icon {
+  position: absolute;
+  top: 118px;
+  left: 316px;
+  width: 37px;
+  height: 37px;
+}
+.profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--subline-size);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

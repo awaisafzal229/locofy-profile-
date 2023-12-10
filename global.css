@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --subline: Inter;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --subline-size: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #878787;
+  --secondary: #101010;
+  --color-black: #000;
+}
